@@ -1,0 +1,15 @@
+
+hr{
+  border-style: none;
+  border-top: dotted;
+  border-color: #ff7f50;
+  border-width: 10px;
+  width:  10%;
+}
+body{
+   background-image: url("rain.jpg");
+   background-size: cover;
+}
+h1,h3{
+  color: black;
+}
